@@ -1,0 +1,53 @@
+body{
+    background: lightyellow;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.btn{
+    background: pink;
+    margin: 20px;
+}
+
+.add-btn{
+    background: lightblue;
+    width: 40px;
+    height: 40px;
+}
+.app-title{
+    text-align: center;
+    color: lightblue;
+    font-size: 70px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.container{
+    border: 5px solid #ffc0cb;
+    border-radius: 25px;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+.addText{
+    border: 5px solid pink;
+    border-radius: 5px;
+    color: lightblue;
+    border-width: 1px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.input{
+    background-color: lightyellow;;
+
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid lightblue;;
+ 
+
+  }
+  .addButton {
+    background-color: lightyellow;;
+    color: black;
+    border: 3px solid lightblue;  }
